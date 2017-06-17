@@ -10,7 +10,7 @@ to start one instances.<br/>
 and 3004 allowing for 1000 concurrent connections per instance.
 
 
- # Exemple
+ # Exemple running server:
 
 For RUN server open terminal and type it:<br/>
 
@@ -40,7 +40,7 @@ Server running ... 2017-06-17 18:07:25.254251<br/>
 
 To simulate sockets clients you can use the Netcat tool as in the example:<br/>
 
-Exemple port 3000
+Exemple cliente connect port 3000 
 =======
 For exemple port 3000:<br/>
 
