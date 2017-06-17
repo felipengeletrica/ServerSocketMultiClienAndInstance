@@ -13,7 +13,7 @@ and 3004 allowing for 1000 concurrent connections per instance.
  # Exemple
 
 For RUN server open terminal and type it:<br/>
-<<<<<<< HEAD
+
 
 $ python main.py 
 
@@ -21,13 +21,13 @@ $ python main.py
 If success on initiating the message will be as below:
 
 Server Tests
-=======
+
 $ python main.py 
 
 If success on initiating the message will be as below:<br/>
 
 Server Tests<br/>
->>>>>>> 30624b05bcf2ca96d8d03a7515cf88b24c94deb4
+
 Server launched on socket: ('0.0.0.0', 3000)<br/>
 Server launched on socket: ('0.0.0.0', 3001)<br/>
 Server launched on socket: ('0.0.0.0', 3002)<br/>
@@ -39,11 +39,10 @@ Server running ... 2017-06-17 18:07:15.244094<br/>
 Server running ... 2017-06-17 18:07:25.254251<br/>
 
 To simulate sockets clients you can use the Netcat tool as in the example:<br/>
-<<<<<<< HEAD
+
 Exemple port 3000
 =======
 For exemple port 3000:<br/>
->>>>>>> 30624b05bcf2ca96d8d03a7515cf88b24c94deb4
 
 $ nc 127.0.0.1 3000<br/>
 
