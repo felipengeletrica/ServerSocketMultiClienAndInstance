@@ -28,7 +28,6 @@ Server running ... 2017-06-17 18:07:05.233936
 Server running ... 2017-06-17 18:07:15.244094
 Server running ... 2017-06-17 18:07:25.254251
 
-
 To simulate sockets clients you can use the Netcat tool as in the example:
 For exemple port 3000
 
