@@ -38,12 +38,11 @@ Server running ... 2017-06-17 18:07:05.233936<br/>
 Server running ... 2017-06-17 18:07:15.244094<br/>
 Server running ... 2017-06-17 18:07:25.254251<br/>
 
-To simulate sockets clients you can use the Netcat tool as in the example:<br/>
 
-Exemple cliente connect port 3000 
-=======
-For exemple port 3000:<br/>
+ # Exemple cliente connect port 3000:<br/>
 
+   To simulate sockets clients you can use the Netcat tool as in the example:<br/>
+   
 $ nc 127.0.0.1 3000<br/>
 
 #ENJOY
