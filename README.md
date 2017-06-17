@@ -5,8 +5,8 @@
  
  This program implements a socket server of multiple clients and multiple
 instances.Allows multiple simultaneous connections (thread socket) configured
-to start one instances.
-    In this example you are configured to listen on ports 3000, 3001, 3002, 3003,
+to start one instances.<br/>
+    <t/>In this example you are configured to listen on ports 3000, 3001, 3002, 3003,
 and 3004 allowing for 1000 concurrent connections per instance.
 
 
