@@ -1,4 +1,5 @@
-# ServerSocketMultiClienAndInstance
+# Server  Socket  Multi Cliente and multiple instances
+
  This program implements a socket server of multiple clients and multiple instances
  
  # Description
